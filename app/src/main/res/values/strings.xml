@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="name_txtEmail">Email</string>
+    <string name="name_txtPassword">Contraseña</string>
+    <string name="name_btnLogin">Iniciar Sesion</string>
+    <string name="name_btnregister">¿No tienes cuenta?, Registraté con tu correo.</string>
+    <string name="name_txtRegisterRedes">o trávez de </string>
+    <string name="name_btnRgt">¡Registrar!</string>
+    <string name="name_name">Nombre</string>
+    <string name="name_lastname">Apellido</string>
+    <string name="name_acceptTerm">¿Aceptas los terminos?</string>
+    <string name="name_infoDatos">Ingrese los siguiente datos para registrarte</string>
+    <string name="name_terms">Leer Terminos</string>
+</resources>
